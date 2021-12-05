@@ -3,7 +3,7 @@
 
 # Windows 10 instructions
 
-Download `https://www.python.org/ftp/python/3.8.3/python-3.8.3-amd64.exe` and custum-install for all (select all options)
+Download `https://www.python.org/ftp/python/3.8.0/python-3.8.0-amd64.exe` and custum-install for all (select all options)
 
 Open a `Command Prompt` ad run:
 
